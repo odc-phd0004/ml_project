@@ -21,3 +21,6 @@ dependencies:
       - ipykernel
       - ipywidgets
       - nbconvert
+      - lime
+      - xgboost
+      - imblearn

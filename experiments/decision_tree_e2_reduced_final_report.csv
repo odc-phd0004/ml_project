@@ -1,0 +1,2 @@
+Experiment,Selected_CV_MacroF1,Test_MacroF1,Test_Accuracy,Selected_Params,Number_of_Tied_Configurations,Elapsed_Seconds
+decision_tree_E2_reduced,0.5600582258012599,0.6235835243188185,0.7710843373493976,"{'model__class_weight': None, 'model__criterion': 'entropy', 'model__max_depth': 10, 'model__min_samples_leaf': 1, 'model__min_samples_split': 2}",5,10.037749767303467

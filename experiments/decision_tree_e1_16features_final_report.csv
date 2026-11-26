@@ -1,0 +1,2 @@
+Experiment,Selected_CV_MacroF1,Test_MacroF1,Test_Accuracy,Selected_Params,Number_of_Tied_Configurations,Elapsed_Seconds
+decision_tree_E1_16features,0.6125517649767213,0.6838032581453634,0.8192771084337349,"{'model__class_weight': 'balanced', 'model__criterion': 'gini', 'model__max_depth': 15, 'model__min_samples_leaf': 1, 'model__min_samples_split': 2}",4,18.043851852416992
