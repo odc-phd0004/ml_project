@@ -82,7 +82,7 @@ python -m ipykernel install --user --name tabpfn
 ### 2.3 TabFM requirements
 
 * A **CUDA GPU**: the notebook loads the model with `device="cuda"`. The v1.0.0 checkpoint has about 1.6B
-  parameters and runs in bfloat16. It ran out of memory on a 7 GB CPU-only machine.
+  parameters and runs in bfloat16.
 * A **Hugging Face account**: cell 3 calls `huggingface_hub.login()`. Weights are downloaded from
   `google/tabfm-1.0.0-pytorch`.
 
